@@ -1,3 +1,1 @@
-class Timer
-  #write your code here
-end
+Time.new(2002)
